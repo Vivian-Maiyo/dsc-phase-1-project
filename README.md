@@ -1,5 +1,7 @@
 # Movies Data Analysis
 
+![genreroi](./Poster/genreroi.png)
+
 Author : Vivian Maiyo
 
 ## Project Overview
@@ -27,11 +29,14 @@ We established that the most popular film genre is Documentary.
 We further stablished that the cost of production was higher in genres rated good than those rated excellent and average. This means it is possible to produced highly rated films at a low cost.
 There is no strong correlation between rating and runtime, hence runtime does not determine the film rating.
 The revenue increases with the cost of production.
+![genreroi](./Bargraph/genreroi.png)
+
 
 ## Conclusion
 The best movies genre for Microsoft movie studio is Documentaries.
 There is no gain in increasing the cost of production as high cost do not necessarily yield high ratings nor profits.
 The movie studio should focus more on film genres with high rating.
+![genreroi](./Rating/genreroi.png)
 
 ## Limitations
 The data set tn.movie_budgets had very low values compared to the rest of the data sets, hence there was high loss of data.
